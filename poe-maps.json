@@ -1,0 +1,270 @@
+{
+  "map": [
+    {
+      "name": "Strand",
+      "boss": [
+        "Master of the Blade",
+        "Massier"
+      ],
+      "bossCount": "2",
+      "bossLocation": "end of map",
+      "bossArena": "1",
+      "layout": "linear",
+      "divinationCard": [
+        "the scout"
+      ]
+    },
+    {
+      "name": "Mausoleum"
+    },
+    {
+      "name": "Lava Lake"
+    },
+    {
+      "name": "Terrace"
+    },
+    {
+      "name": "Moon Temple"
+    },
+    {
+      "name": "Arachnid Tomb"
+    },
+    {
+      "name": "Crimson Temple"
+    },
+    {
+      "name": "Castle Ruins"
+    },
+    {
+      "name": "Cage"
+    },
+    {
+      "name": "Forking River"
+    },
+    {
+      "name": "Spider Forest"
+    },
+    {
+      "name": "Alleyways"
+    },
+    {
+      "name": "Bone Crypt"
+    },
+    {
+      "name": "Museum"
+    },
+    {
+      "name": "Phantasmagoria"
+    },
+    {
+      "name": "Port"
+    },
+    {
+      "name": "Coves"
+    },
+    {
+      "name": "Caldera"
+    },
+    {
+      "name": "Sepulchre"
+    },
+    {
+      "name": "Plateau"
+    },
+    {
+      "name": "Atoll"
+    },
+    {
+      "name": "Shore"
+    },
+    {
+      "name": "Vaal Pyramid"
+    },
+    {
+      "name": "Residence"
+    },
+    {
+      "name": "Coral Ruins"
+    },
+    {
+      "name": "Spider Lair"
+    },
+    {
+      "name": "Thicket"
+    },
+    {
+      "name": "Arachnid Nest"
+    },
+    {
+      "name": "Temple"
+    },
+    {
+      "name": "Courtyard"
+    },
+    {
+      "name": "Acid Caverns"
+    },
+    {
+      "name": "Ivory Temple"
+    },
+    {
+      "name": "Laboratory"
+    },
+    {
+      "name": "Bog"
+    },
+    {
+      "name": "Silo"
+    },
+    {
+      "name": "Pier"
+    },
+    {
+      "name": "Overgrown Shrine"
+    },
+    {
+      "name": "Promenade"
+    },
+    {
+      "name": "Sulphur Vents"
+    },
+    {
+      "name": "Peninsula"
+    },
+    {
+      "name": "Haunted Mansion"
+    },
+    {
+      "name": "Iceberg"
+    },
+    {
+      "name": "Volcano"
+    },
+    {
+      "name": "Necropolis"
+    },
+    {
+      "name": "Precinct"
+    },
+    {
+      "name": "Mineral Pools"
+    },
+    {
+      "name": "Factory"
+    },
+    {
+      "name": "Burial Chambers"
+    },
+    {
+      "name": "Crater"
+    },
+    {
+      "name": "Frozen Cabins"
+    },
+    {
+      "name": "Estuary"
+    },
+    {
+      "name": "Primordial Blocks"
+    },
+    {
+      "name": "Arsenal"
+    },
+    {
+      "name": "Dungeon"
+    },
+    {
+      "name": "Academy"
+    },
+    {
+      "name": "Crimson Township"
+    },
+    {
+      "name": "Leyline"
+    },
+    {
+      "name": "Bazaar"
+    },
+    {
+      "name": "Primordial Pool"
+    },
+    {
+      "name": "Desert"
+    },
+    {
+      "name": "Dark Forest"
+    },
+    {
+      "name": "Colosseum"
+    },
+    {
+      "name": "Arcade"
+    },
+    {
+      "name": "Underground River"
+    },
+    {
+      "name": "Gardens"
+    },
+    {
+      "name": "Forbidden Woods"
+    },
+    {
+      "name": "Grave Trough"
+    },
+    {
+      "name": "Defiled Cathedral"
+    },
+    {
+      "name": "Lookout"
+    },
+    {
+      "name": "Wasteland"
+    },
+    {
+      "name": "City Square"
+    },
+    {
+      "name": "Mesa"
+    },
+    {
+      "name": "Infested Valley"
+    },
+    {
+      "name": "Dry Sea"
+    },
+    {
+      "name": "Villa"
+    },
+    {
+      "name": "Cemetery"
+    },
+    {
+      "name": "Cursed Crypt"
+    },
+    {
+      "name": "Courthouse"
+    },
+    {
+      "name": "Cold River"
+    },
+    {
+      "name": "Colonnade"
+    },
+    {
+      "name": "Shipyard"
+    },
+    {
+      "name": "Lair"
+    },
+    {
+      "name": "Orchard"
+    },
+    {
+      "name": "Shrine"
+    },
+    {
+      "name": "Plaza"
+    }
+  ]
+}
