@@ -15,4 +15,13 @@ mozno rozsirit o ruzne poznamky
 cilem by bylo mit zdroj pro nejakou stranku, kde si muzu vyfiltrovat mapy za pouziti filtrace s vice parametry
 
 
-
+```
+      "boss": [    
+      ],
+      "bossCount": "",
+      "bossLocation": "",
+      "bossArena": "",
+      "layout": "",
+      "divinationCard": [
+      ]
+```
