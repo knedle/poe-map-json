@@ -30,7 +30,16 @@
       "name": "Arachnid Tomb"
     },
     {
-      "name": "Crimson Temple"
+      "name": "Crimson Temple",
+      "boss": [    
+      ],
+      "bossCount": "",
+      "bossLocation": "",
+      "bossArena": "",
+      "layout": "",
+      "divinationCard": [
+        "The Apothecary"
+      ]      
     },
     {
       "name": "Castle Ruins"
@@ -132,7 +141,16 @@
       "name": "Peninsula"
     },
     {
-      "name": "Haunted Mansion"
+      "name": "Haunted Mansion",
+      "boss": [    
+      ],
+      "bossCount": "",
+      "bossLocation": "",
+      "bossArena": "",
+      "layout": "",
+      "divinationCard": [
+        "The Apothecary"
+      ]      
     },
     {
       "name": "Iceberg"
@@ -177,7 +195,16 @@
       "name": "Academy"
     },
     {
-      "name": "Crimson Township"
+      "name": "Crimson Township",
+      "boss": [    
+      ],
+      "bossCount": "",
+      "bossLocation": "",
+      "bossArena": "",
+      "layout": "",
+      "divinationCard": [
+        "The Apothecary"
+      ]
     },
     {
       "name": "Leyline"
@@ -212,8 +239,16 @@
     {
       "name": "Grave Trough"
     },
-    {
-      "name": "Defiled Cathedral"
+      "name": "Defiled Cathedral",
+      "boss": [    
+      ],
+      "bossCount": "",
+      "bossLocation": "",
+      "bossArena": "",
+      "layout": "",
+      "divinationCard": [
+        "The Apothecary"
+      ]      
     },
     {
       "name": "Lookout"
