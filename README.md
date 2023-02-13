@@ -25,3 +25,10 @@ cilem by bylo mit zdroj pro nejakou stranku, kde si muzu vyfiltrovat mapy za pou
       "divinationCard": [
       ]
 ```
+
+
+poznamky
+
+pro sortovani pouzit 
+https://www.coderstool.com/json-sort
+kdy jsem si vzal jenom [] + sort critera: key value; key name: name; sort order: a-z
