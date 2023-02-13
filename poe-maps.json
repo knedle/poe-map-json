@@ -1,306 +1,302 @@
 {
-  "map": [
-    {
-      "name": "Strand",
-      "boss": [
-        "Master of the Blade",
-        "Massier"
-      ],
-      "bossCount": "2",
-      "bossLocation": "end of map",
-      "bossArena": "1",
-      "layout": "linear",
-      "divinationCard": [
-        "the scout"
-      ]
-    },
-    {
-      "name": "Mausoleum"
-    },
-    {
-      "name": "Lava Lake"
-    },
-    {
-      "name": "Terrace"
-    },
-    {
-      "name": "Moon Temple"
-    },
-    {
-      "name": "Arachnid Tomb"
-    },
-    {
-      "name": "Crimson Temple",
-      "boss": [    
-      ],
-      "bossCount": "",
-      "bossLocation": "",
-      "bossArena": "",
-      "layout": "",
-      "divinationCard": [
-        "The Apothecary"
-      ]      
-    },
-    {
-      "name": "Castle Ruins"
-    },
-    {
-      "name": "Cage"
-    },
-    {
-      "name": "Forking River"
-    },
-    {
-      "name": "Spider Forest"
-    },
-    {
-      "name": "Alleyways"
-    },
-    {
-      "name": "Bone Crypt"
-    },
-    {
-      "name": "Museum"
-    },
-    {
-      "name": "Phantasmagoria"
-    },
-    {
-      "name": "Port"
-    },
-    {
-      "name": "Coves"
-    },
-    {
-      "name": "Caldera"
-    },
-    {
-      "name": "Sepulchre"
-    },
-    {
-      "name": "Plateau"
-    },
-    {
-      "name": "Atoll"
-    },
-    {
-      "name": "Shore"
-    },
-    {
-      "name": "Vaal Pyramid"
-    },
-    {
-      "name": "Residence"
-    },
-    {
-      "name": "Coral Ruins"
-    },
-    {
-      "name": "Spider Lair"
-    },
-    {
-      "name": "Thicket"
-    },
-    {
-      "name": "Arachnid Nest"
-    },
-    {
-      "name": "Temple"
-    },
-    {
-      "name": "Courtyard"
-    },
-    {
-      "name": "Acid Caverns"
-    },
-    {
-      "name": "Ivory Temple"
-    },
-    {
-      "name": "Laboratory"
-    },
-    {
-      "name": "Bog"
-    },
-    {
-      "name": "Silo"
-    },
-    {
-      "name": "Pier"
-    },
-    {
-      "name": "Overgrown Shrine"
-    },
-    {
-      "name": "Promenade"
-    },
-    {
-      "name": "Sulphur Vents"
-    },
-    {
-      "name": "Peninsula"
-    },
-    {
-      "name": "Haunted Mansion",
-      "boss": [    
-      ],
-      "bossCount": "",
-      "bossLocation": "",
-      "bossArena": "",
-      "layout": "",
-      "divinationCard": [
-        "The Apothecary"
-      ]      
-    },
-    {
-      "name": "Iceberg"
-    },
-    {
-      "name": "Volcano"
-    },
-    {
-      "name": "Necropolis"
-    },
-    {
-      "name": "Precinct"
-    },
-    {
-      "name": "Mineral Pools"
-    },
-    {
-      "name": "Factory"
-    },
-    {
-      "name": "Burial Chambers"
-    },
-    {
-      "name": "Crater"
-    },
-    {
-      "name": "Frozen Cabins"
-    },
-    {
-      "name": "Estuary"
-    },
-    {
-      "name": "Primordial Blocks"
-    },
-    {
-      "name": "Arsenal"
-    },
-    {
-      "name": "Dungeon"
-    },
-    {
-      "name": "Academy"
-    },
-    {
-      "name": "Crimson Township",
-      "boss": [    
-      ],
-      "bossCount": "",
-      "bossLocation": "",
-      "bossArena": "",
-      "layout": "",
-      "divinationCard": [
-        "The Apothecary"
-      ]
-    },
-    {
-      "name": "Leyline"
-    },
-    {
-      "name": "Bazaar"
-    },
-    {
-      "name": "Primordial Pool"
-    },
-    {
-      "name": "Desert"
-    },
-    {
-      "name": "Dark Forest"
-    },
-    {
-      "name": "Colosseum"
-    },
-    {
-      "name": "Arcade"
-    },
-    {
-      "name": "Underground River"
-    },
-    {
-      "name": "Gardens"
-    },
-    {
-      "name": "Forbidden Woods"
-    },
-    {
-      "name": "Grave Trough"
-    },
-    {
-      "name": "Defiled Cathedral",
-      "boss": [    
-      ],
-      "bossCount": "",
-      "bossLocation": "",
-      "bossArena": "",
-      "layout": "",
-      "divinationCard": [
-        "The Apothecary"
-      ]      
-    },
-    {
-      "name": "Lookout"
-    },
-    {
-      "name": "Wasteland"
-    },
-    {
-      "name": "City Square"
-    },
-    {
-      "name": "Mesa"
-    },
-    {
-      "name": "Infested Valley"
-    },
-    {
-      "name": "Dry Sea"
-    },
-    {
-      "name": "Villa"
-    },
-    {
-      "name": "Cemetery"
-    },
-    {
-      "name": "Cursed Crypt"
-    },
-    {
-      "name": "Courthouse"
-    },
-    {
-      "name": "Cold River"
-    },
-    {
-      "name": "Colonnade"
-    },
-    {
-      "name": "Shipyard"
-    },
-    {
-      "name": "Lair"
-    },
-    {
-      "name": "Orchard"
-    },
-    {
-      "name": "Shrine"
-    },
-    {
-      "name": "Plaza"
-    }
-  ]
+[
+	{
+		"name": "Academy"
+	},
+	{
+		"name": "Acid Caverns"
+	},
+	{
+		"name": "Alleyways"
+	},
+	{
+		"name": "Arachnid Nest"
+	},
+	{
+		"name": "Arachnid Tomb"
+	},
+	{
+		"name": "Arcade"
+	},
+	{
+		"name": "Arsenal"
+	},
+	{
+		"name": "Atoll"
+	},
+	{
+		"name": "Bazaar"
+	},
+	{
+		"name": "Bog"
+	},
+	{
+		"name": "Bone Crypt"
+	},
+	{
+		"name": "Burial Chambers"
+	},
+	{
+		"name": "Cage"
+	},
+	{
+		"name": "Caldera"
+	},
+	{
+		"name": "Castle Ruins"
+	},
+	{
+		"name": "Cemetery"
+	},
+	{
+		"name": "City Square"
+	},
+	{
+		"name": "Cold River"
+	},
+	{
+		"name": "Colonnade"
+	},
+	{
+		"name": "Colosseum"
+	},
+	{
+		"name": "Coral Ruins"
+	},
+	{
+		"name": "Courthouse"
+	},
+	{
+		"name": "Courtyard"
+	},
+	{
+		"name": "Coves"
+	},
+	{
+		"name": "Crater"
+	},
+	{
+		"name": "Crimson Temple",
+		"boss": [],
+		"bossCount": "",
+		"bossLocation": "",
+		"bossArena": "",
+		"layout": "",
+		"divinationCard": [
+			"The Apothecary"
+		]
+	},
+	{
+		"name": "Crimson Township",
+		"boss": [],
+		"bossCount": "",
+		"bossLocation": "",
+		"bossArena": "",
+		"layout": "",
+		"divinationCard": [
+			"The Apothecary"
+		]
+	},
+	{
+		"name": "Cursed Crypt"
+	},
+	{
+		"name": "Dark Forest"
+	},
+	{
+		"name": "Defiled Cathedral",
+		"boss": [],
+		"bossCount": "",
+		"bossLocation": "",
+		"bossArena": "",
+		"layout": "",
+		"divinationCard": [
+			"The Apothecary"
+		]
+	},
+	{
+		"name": "Desert"
+	},
+	{
+		"name": "Dry Sea"
+	},
+	{
+		"name": "Dungeon"
+	},
+	{
+		"name": "Estuary"
+	},
+	{
+		"name": "Factory"
+	},
+	{
+		"name": "Forbidden Woods"
+	},
+	{
+		"name": "Forking River"
+	},
+	{
+		"name": "Frozen Cabins"
+	},
+	{
+		"name": "Gardens"
+	},
+	{
+		"name": "Grave Trough"
+	},
+	{
+		"name": "Haunted Mansion",
+		"boss": [],
+		"bossCount": "",
+		"bossLocation": "",
+		"bossArena": "",
+		"layout": "",
+		"divinationCard": [
+			"The Apothecary"
+		]
+	},
+	{
+		"name": "Iceberg"
+	},
+	{
+		"name": "Infested Valley"
+	},
+	{
+		"name": "Ivory Temple"
+	},
+	{
+		"name": "Laboratory"
+	},
+	{
+		"name": "Lair"
+	},
+	{
+		"name": "Lava Lake"
+	},
+	{
+		"name": "Leyline"
+	},
+	{
+		"name": "Lookout"
+	},
+	{
+		"name": "Mausoleum"
+	},
+	{
+		"name": "Mesa"
+	},
+	{
+		"name": "Mineral Pools"
+	},
+	{
+		"name": "Moon Temple"
+	},
+	{
+		"name": "Museum"
+	},
+	{
+		"name": "Necropolis"
+	},
+	{
+		"name": "Orchard"
+	},
+	{
+		"name": "Overgrown Shrine"
+	},
+	{
+		"name": "Peninsula"
+	},
+	{
+		"name": "Phantasmagoria"
+	},
+	{
+		"name": "Pier"
+	},
+	{
+		"name": "Plateau"
+	},
+	{
+		"name": "Plaza"
+	},
+	{
+		"name": "Port"
+	},
+	{
+		"name": "Precinct"
+	},
+	{
+		"name": "Primordial Blocks"
+	},
+	{
+		"name": "Primordial Pool"
+	},
+	{
+		"name": "Promenade"
+	},
+	{
+		"name": "Residence"
+	},
+	{
+		"name": "Sepulchre"
+	},
+	{
+		"name": "Shipyard"
+	},
+	{
+		"name": "Shore"
+	},
+	{
+		"name": "Shrine"
+	},
+	{
+		"name": "Silo"
+	},
+	{
+		"name": "Spider Forest"
+	},
+	{
+		"name": "Spider Lair"
+	},
+	{
+		"name": "Strand",
+		"boss": [
+			"Master of the Blade",
+			"Massier"
+		],
+		"bossCount": "2",
+		"bossLocation": "end of map",
+		"bossArena": "1",
+		"layout": "linear",
+		"divinationCard": [
+			"the scout"
+		]
+	},
+	{
+		"name": "Sulphur Vents"
+	},
+	{
+		"name": "Temple"
+	},
+	{
+		"name": "Terrace"
+	},
+	{
+		"name": "Thicket"
+	},
+	{
+		"name": "Underground River"
+	},
+	{
+		"name": "Vaal Pyramid"
+	},
+	{
+		"name": "Villa"
+	},
+	{
+		"name": "Volcano"
+	},
+	{
+		"name": "Wasteland"
+	}
+]
 }
