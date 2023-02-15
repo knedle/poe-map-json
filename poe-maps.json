@@ -13,7 +13,16 @@
 		"name": "Arachnid Nest"
 	},
 	{
-		"name": "Arachnid Tomb"
+		"name": "Arachnid Tomb",
+      "boss": [    
+      ],
+      "bossCount": "1",
+      "bossLocation": "",
+      "bossArena": "1",
+      "layout": "labyrinth",
+      "divinationCard": [
+      ], 
+		"note": "2 floor and arena"
 	},
 	{
 		"name": "Arcade"
