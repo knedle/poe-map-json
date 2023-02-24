@@ -237,7 +237,17 @@
 		"name": "Primordial Blocks"
 	},
 	{
-		"name": "Primordial Pool"
+		"name": "Primordial Pool",
+		"boss": [
+			"Nightmare's Omen"
+		],
+		"bossCount": "1",
+		"bossLocation": "end of map",
+		"bossArena": "1",
+		"layout": "linear",
+		"divinationCard": [
+			"The Dragon's Heart"
+		]		
 	},
 	{
 		"name": "Promenade"
