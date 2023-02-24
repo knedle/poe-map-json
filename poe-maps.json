@@ -28,7 +28,14 @@
 		"name": "Arcade"
 	},
 	{
-		"name": "Arsenal"
+		"name": "Arsenal",
+		"boss": [
+			"The Steel Soul"
+		],
+		"bossCount": "1",
+		"bossLocation": "random",
+		"bossArena": "1",
+		"layout": ""
 	},
 	{
 		"name": "Atoll"
