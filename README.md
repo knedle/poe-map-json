@@ -6,9 +6,14 @@ rad bych si tu udelal full dataset na (neunikatni) mapy atlasu - ignoruji ligy, 
 ## pozadovana data
 
 - typ layoutu
+ - linear = furt rovne až k bosovi, nejde uhnout (tunels, canyon)
+ - semi-linear = mapa ma dany tvar, je mozne hned ihned urcit kde najdem bosse (park, atoll)
+ - open - otevrena mapa - je mozne zvolit spatny smer, 
+ - maze - bludiste
 - seznam drahych divination card
 - pocet bosu (jmena take, ale jsou podruzna)
 - umisteni bose
+- poznamky
 
 mozno rozsirit o ruzne poznamky
 
