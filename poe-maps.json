@@ -17,12 +17,11 @@
       "boss": [    
       ],
       "bossCount": "1",
-      "bossLocation": "",
       "bossArena": "1",
       "layout": "labyrinth",
       "divinationCard": [
       ], 
-		"note": "2 floor and arena"
+		"note": "2 floors and arena"
 	},
 	{
 		"name": "Arcade"
@@ -38,7 +37,14 @@
 		"layout": ""
 	},
 	{
-		"name": "Atoll"
+		"name": "Atoll",
+		"boss": [
+			
+		],
+		"bossCount": "1",
+		"bossLocation": "random",
+		"bossArena": "1",
+		"layout": "semi-linear"
 	},
 	{
 		"name": "Bazaar"
@@ -105,10 +111,9 @@
 	{
 		"name": "Crimson Township",
 		"boss": [],
-		"bossCount": "",
-		"bossLocation": "",
-		"bossArena": "",
-		"layout": "",
+		"bossCount": "1",
+		"bossArena": "1",
+		"layout": "linear",
 		"divinationCard": [
 			"The Apothecary"
 		]
@@ -164,7 +169,6 @@
 		"name": "Haunted Mansion",
 		"boss": [],
 		"bossCount": "",
-		"bossLocation": "",
 		"bossArena": "",
 		"layout": "",
 		"divinationCard": [
@@ -249,7 +253,6 @@
 			"Nightmare's Omen"
 		],
 		"bossCount": "1",
-		"bossLocation": "end of map",
 		"bossArena": "1",
 		"layout": "linear",
 		"divinationCard": [
@@ -290,7 +293,6 @@
 			"Massier"
 		],
 		"bossCount": "2",
-		"bossLocation": "end of map",
 		"bossArena": "1",
 		"layout": "linear",
 		"divinationCard": [
