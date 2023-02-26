@@ -32,9 +32,9 @@
 			"The Steel Soul"
 		],
 		"bossCount": "1",
-		"bossLocation": "random",
 		"bossArena": "1",
-		"layout": ""
+		"layout": "open",
+		"note": "maybe boss in diagonal direction"
 	},
 	{
 		"name": "Atoll",
@@ -42,7 +42,6 @@
 			
 		],
 		"bossCount": "1",
-		"bossLocation": "random",
 		"bossArena": "1",
 		"layout": "semi-linear"
 	},
@@ -194,7 +193,15 @@
 		"name": "Lava Lake"
 	},
 	{
-		"name": "Leyline"
+		"name": "Leyline",
+		"boss": [
+			
+		],
+		"bossCount": "1",		
+		"bossArena": "1",
+		"layout": "semi-linear",
+		"divinationCard": [
+		]
 	},
 	{
 		"name": "Lookout"
