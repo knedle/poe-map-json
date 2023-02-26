@@ -245,7 +245,17 @@
 		"name": "Precinct"
 	},
 	{
-		"name": "Primordial Blocks"
+		"name": "Primordial Blocks",
+		"boss": [
+			"High Lithomancer"
+		],
+		"bossCount": "1",
+		"bossLocation": "",
+		"bossArena": "1",
+		"layout": "semi-linear",
+		"divinationCard": [
+			"The Dragon's Heart"			
+		]		
 	},
 	{
 		"name": "Primordial Pool",
