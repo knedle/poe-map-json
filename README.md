@@ -6,7 +6,7 @@ rad bych si tu udelal full dataset na (neunikatni) mapy atlasu - ignoruji ligy, 
 ## pozadovana data
 
 - typ layoutu
-  - linear = furt rovne až k bosovi, nejde uhnout (tunels, canyon)
+  - linear = furt rovne až k bosovi, nejde uhnout (silo, canyon)
   - semi-linear = mapa ma dany tvar, je mozne hned ihned urcit kde najdem bosse (park, atoll)
   - open - otevrena mapa - je mozne zvolit spatny smer, 
   - maze - bludiste
