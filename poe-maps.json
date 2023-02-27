@@ -99,13 +99,13 @@
 	{
 		"name": "Crimson Temple",
 		"boss": [],
-		"bossCount": "",
-		"bossLocation": "",
+		"bossCount": "1",
 		"bossArena": "",
-		"layout": "",
+		"layout": "semi-linear",
 		"divinationCard": [
 			"The Apothecary"
-		]
+		],
+		"note": "maybe boss diagonal direction"
 	},
 	{
 		"name": "Crimson Township",
