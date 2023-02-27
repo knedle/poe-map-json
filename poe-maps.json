@@ -94,7 +94,15 @@
 		"name": "Coves"
 	},
 	{
-		"name": "Crater"
+		"name": "Crater",
+		"boss": [],
+		"bossCount": "1",
+		"bossArena": "0",
+		"layout": "semi-linear",
+		"divinationCard": [
+			
+		],
+		"note": "maybe boss diagonal direction"
 	},
 	{
 		"name": "Crimson Temple",
@@ -201,7 +209,8 @@
 		"bossArena": "1",
 		"layout": "semi-linear",
 		"divinationCard": [
-		]
+		],
+		"note": "open, but middle way to boss"
 	},
 	{
 		"name": "Lookout"
@@ -213,7 +222,16 @@
 		"name": "Mesa"
 	},
 	{
-		"name": "Mineral Pools"
+		"name": "Mineral Pools",
+		"boss": [
+			
+		],
+		"bossCount": "1",		
+		"bossArena": "1",
+		"layout": "semi-linear",
+		"divinationCard": [
+		],
+		"note": "maybe U layout"
 	},
 	{
 		"name": "Moon Temple"
