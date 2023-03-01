@@ -55,7 +55,17 @@
 		"name": "Bone Crypt"
 	},
 	{
-		"name": "Burial Chambers"
+		"name": "Burial Chambers",
+		"boss": [
+			
+		],
+		"bossCount": "1",		
+		"bossArena": "1",
+		"layout": "linear",
+		"divinationCard": [
+		],
+		"note": ""	
+		
 	},
 	{
 		"name": "Cage"
