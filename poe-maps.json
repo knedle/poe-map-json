@@ -63,6 +63,19 @@
 	{
 		"name": "Caldera"
 	},
+	
+	{
+		"name": "Carcass",
+		"boss": [
+			
+		],
+		"bossCount": "1",		
+		"bossArena": "1",
+		"layout": "semi-linear",
+		"divinationCard": [
+		],
+		"note": ""	
+	},	
 	{
 		"name": "Castle Ruins"
 	},
