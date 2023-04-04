@@ -1,387 +1,1763 @@
-
 [
-	{
-		"name": "Academy"
-	},
-	{
-		"name": "Acid Caverns"
-	},
-	{
-		"name": "Alleyways"
-	},
-	{
-		"name": "Arachnid Nest"
-	},
-	{
-		"name": "Arachnid Tomb",
-      "boss": [    
-      ],
-      "bossCount": "1",
-      "bossArena": "1",
-      "layout": "labyrinth",
-      "divinationCard": [
-      ], 
-		"note": "2 floors and arena"
-	},
-	{
-		"name": "Arcade"
-	},
-	{
-		"name": "Arsenal",
-		"boss": [
-			"The Steel Soul"
-		],
-		"bossCount": "1",
-		"bossArena": "1",
-		"layout": "open",
-		"note": "maybe boss in diagonal direction"
-	},
-	{
-		"name": "Atoll",
-		"boss": [
-			
-		],
-		"bossCount": "1",
-		"bossArena": "1",
-		"layout": "semi-linear"
-	},
-	{
-		"name": "Bazaar"
-	},
-	{
-		"name": "Bog"
-	},
-	{
-		"name": "Bone Crypt"
-	},
-	{
-		"name": "Burial Chambers",
-		"boss": [
-			
-		],
-		"bossCount": "1",		
-		"bossArena": "1",
-		"layout": "linear",
-		"divinationCard": [
-		],
-		"note": ""	
-		
-	},
-	{
-		"name": "Cage"
-	},
-	{
-		"name": "Caldera"
-	},
-	
-	{
-		"name": "Carcass",
-		"boss": [
-			
-		],
-		"bossCount": "1",		
-		"bossArena": "1",
-		"layout": "semi-linear",
-		"divinationCard": [
-		],
-		"note": ""	
-	},	
-	{
-		"name": "Castle Ruins"
-	},
-	{
-		"name": "Cemetery"
-	},
-	{
-		"name": "City Square"
-	},
-	{
-		"name": "Cold River"
-	},
-	{
-		"name": "Colonnade"
-	},
-	{
-		"name": "Colosseum"
-	},
-	{
-		"name": "Coral Ruins"
-	},
-	{
-		"name": "Courthouse"
-	},
-	{
-		"name": "Courtyard"
-	},
-	{
-		"name": "Coves"
-	},
-	{
-		"name": "Crater",
-		"boss": [],
-		"bossCount": "1",
-		"bossArena": "0",
-		"layout": "semi-linear",
-		"divinationCard": [
-			
-		],
-		"note": "maybe boss diagonal direction"
-	},
-	{
-		"name": "Crimson Temple",
-		"boss": [],
-		"bossCount": "1",
-		"bossArena": "",
-		"layout": "semi-linear",
-		"divinationCard": [
-			"The Apothecary"
-		],
-		"note": "maybe boss diagonal direction"
-	},
-	{
-		"name": "Crimson Township",
-		"boss": [],
-		"bossCount": "1",
-		"bossArena": "1",
-		"layout": "linear",
-		"divinationCard": [
-			"The Apothecary"
-		]
-	},
-	{
-		"name": "Cursed Crypt"
-	},
-	{
-		"name": "Dark Forest"
-	},
-	{
-		"name": "Defiled Cathedral",
-		"boss": [],
-		"bossCount": "",
-		"bossLocation": "",
-		"bossArena": "",
-		"layout": "",
-		"divinationCard": [
-			"The Apothecary"
-		]
-	},
-	{
-		"name": "Desert"
-	},
-	{
-		"name": "Dry Sea"
-	},
-	{
-		"name": "Dungeon"
-	},
-	{
-		"name": "Estuary"
-	},
-	{
-		"name": "Factory"
-	},
-	{
-		"name": "Forbidden Woods"
-	},
-	{
-		"name": "Forking River"
-	},
-	{
-		"name": "Frozen Cabins"
-	},
-	{
-		"name": "Gardens"
-	},
-	{
-		"name": "Grave Trough"
-	},
-	{
-		"name": "Haunted Mansion",
-		"boss": [],
-		"bossCount": "",
-		"bossArena": "",
-		"layout": "",
-		"divinationCard": [
-			"The Apothecary"
-		]
-	},
-	{
-		"name": "Iceberg"
-	},
-	{
-		"name": "Infested Valley"
-	},
-	{
-		"name": "Ivory Temple"
-	},
-	{
-		"name": "Laboratory"
-	},
-	{
-		"name": "Lair"
-	},
-	{
-		"name": "Lava Lake"
-	},
-	{
-		"name": "Leyline",
-		"boss": [
-			
-		],
-		"bossCount": "1",		
-		"bossArena": "1",
-		"layout": "semi-linear",
-		"divinationCard": [
-		],
-		"note": "open, but middle way to boss"
-	},
-	{
-		"name": "Lookout"
-	},
-	{
-		"name": "Mausoleum"
-	},
-	{
-		"name": "Mesa"
-	},
-	{
-		"name": "Mineral Pools",
-		"boss": [
-			
-		],
-		"bossCount": "1",		
-		"bossArena": "1",
-		"layout": "semi-linear",
-		"divinationCard": [
-		],
-		"note": "maybe U layout"
-	},
-	{
-		"name": "Moon Temple"
-	},
-	{
-		"name": "Museum"
-	},
-	{
-		"name": "Necropolis"
-	},
-	{
-		"name": "Orchard"
-	},
-	{
-		"name": "Overgrown Shrine"
-	},
-	{
-		"name": "Peninsula"
-	},
-	{
-		"name": "Phantasmagoria"
-	},
-	{
-		"name": "Pier"
-	},
-	{
-		"name": "Plateau"
-	},
-	{
-		"name": "Plaza"
-	},
-	{
-		"name": "Port"
-	},
-	{
-		"name": "Precinct"
-	},
-	{
-		"name": "Primordial Blocks",
-		"boss": [
-			"High Lithomancer"
-		],
-		"bossCount": "1",
-		"bossLocation": "",
-		"bossArena": "1",
-		"layout": "semi-linear",
-		"divinationCard": [
-			"The Dragon's Heart"			
-		]		
-	},
-	{
-		"name": "Primordial Pool",
-		"boss": [
-			"Nightmare's Omen"
-		],
-		"bossCount": "1",
-		"bossArena": "1",
-		"layout": "linear",
-		"divinationCard": [
-			"The Dragon's Heart"
-		]		
-	},
-	{
-		"name": "Promenade"
-	},
-	{
-		"name": "Residence"
-	},
-	{
-		"name": "Sepulchre"
-	},
-	{
-		"name": "Shipyard"
-	},
-	{
-		"name": "Shore"
-	},
-	{
-		"name": "Shrine"
-	},
-	{
-		"name": "Silo"
-	},
-	{
-		"name": "Spider Forest"
-	},
-	{
-		"name": "Spider Lair"
-	},
-	{
-		"name": "Strand",
-		"boss": [
-			"Master of the Blade",
-			"Massier"
-		],
-		"bossCount": "2",
-		"bossArena": "1",
-		"layout": "linear",
-		"divinationCard": [
-			"the scout"
-		]
-	},
-	{
-		"name": "Sulphur Vents"
-	},
-	{
-		"name": "Temple"
-	},
-	{
-		"name": "Terrace"
-	},
-	{
-		"name": "Thicket"
-	},
-	{
-		"name": "Underground River"
-	},
-	{
-		"name": "Vaal Pyramid"
-	},
-	{
-		"name": "Villa"
-	},
-	{
-		"name": "Volcano"
-	},
-	{
-		"name": "Wasteland"
-	}
+    {
+        "map": "Academy",
+        "boss": "The Arbiter of Knowledge",
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "1",
+        "layout": "maze",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Acid Caverns",
+        "boss":
+        [
+            "Rama, The Kinslayer",
+            "Kalria, The Fallen",
+            "Invari, The Bloodshaper",
+            "Lokan, The Deceiver",
+            "Marchak, The Betrayer",
+            "Berrots, The Breaker",
+            "Vessider, The Unrivaled",
+            "Morgrants, The Deafening",
+            "Lokan, The Deceiver"
+        ],
+        "bossCount": "2",
+        "bossPhase": "0",
+        "bossArena": "0",
+        "layout": "semi-linear",
+        "divinationCard": "",
+        "noteKnedle": "short way, long way - U ?"
+    },
+    {
+        "map": "Alleyways",
+        "boss": "Calderus",
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "0",
+        "layout": "linear",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Ancient City",
+        "boss": "Legius Garhall",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Arachnid Nest",
+        "boss": "Spinner of False Hope",
+        "bossCount": "1",
+        "bossPhase": "1",
+        "bossArena": "1",
+        "layout": "maze",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Arachnid Tomb",
+        "boss": "Hybrid Widow",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "1",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": "2 floors and arena"
+    },
+    {
+        "map": "Arcade",
+        "boss":
+        [
+            "Herald of Ashes",
+            "Herald of Thunder"
+        ],
+        "bossCount": "",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Arena",
+        "boss":
+        [
+            "Avatar of the Forge",
+            "Avatar of the Skies",
+            "Avatar of the Huntress"
+        ],
+        "bossCount": "3",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard":
+        [
+            "The Last One Standing"
+        ],
+        "noteKnedle": ""
+    },
+    {
+        "map": "Arid Lake",
+        "boss": "Drought-Maddened Rhoa",
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "1",
+        "layout": "semi-linear",
+        "divinationCard": "",
+        "noteKnedle": "maybe allways on left"
+    },
+    {
+        "map": "Armoury",
+        "boss": "Warmonger",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard":
+        [
+            "The Patient"
+        ],
+        "noteKnedle": " "
+    },
+    {
+        "map": "Arsenal",
+        "boss": "The Steel Soul",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "1",
+        "layout": "",
+        "divinationCard":
+        [
+            "The Patient"
+        ],
+        "noteKnedle": "maybe boss in diagonal direction"
+    },
+    {
+        "map": "Ashen Wood",
+        "boss": "Lord of the Ashen Arrow",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard":
+        [
+            "The Scout"
+        ],
+        "noteKnedle": ""
+    },
+    {
+        "map": "Atoll",
+        "boss": "Puruna, the Challenger",
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "1",
+        "layout": "semi-linear",
+        "divinationCard": "",
+        "noteKnedle": "best speed run map"
+    },
+    {
+        "map": "Barrows",
+        "boss": "Beast of the Pits",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Basilica",
+        "boss": "Konley, the Unrepentant",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Bazaar",
+        "boss": "Ancient Sculptor",
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "1",
+        "layout": "semi-linear",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Beach",
+        "boss": "Glace",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Belfry",
+        "boss": "Lord of the Grey",
+        "bossCount": "1",
+        "bossPhase": "1",
+        "bossArena": "1",
+        "layout": "semi-linear",
+        "divinationCard":
+        [
+            "The Enlightened"
+        ],
+        "noteKnedle": "both way to boss,boss on same place"
+    },
+    {
+        "map": "Bog",
+        "boss": "Skullbeak",
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "1",
+        "layout": "semi-linear",
+        "divinationCard": "",
+        "noteKnedle": "open, but arena in centre"
+    },
+    {
+        "map": "Bone Crypt",
+        "boss": "Xixic, High Necromancer",
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "0",
+        "layout": "semi-linear",
+        "divinationCard": "",
+        "noteKnedle": "both way to boss,boss on same place"
+    },
+    {
+        "map": "Bramble Valley",
+        "boss":
+        [
+            "Orvi Acidbeak",
+            "Elida Blisterclaw",
+            "Melur Thornmaul"
+        ],
+        "bossCount": "",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard":
+        [
+            "The Scout"
+        ],
+        "noteKnedle": ""
+    },
+    {
+        "map": "Burial Chambers",
+        "boss": "Witch of the Cauldron",
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "1",
+        "layout": "linear",
+        "divinationCard":
+        [
+            "The Doctor"
+        ],
+        "noteKnedle": "4 part of way"
+    },
+    {
+        "map": "Cage",
+        "boss": "Executioner Bloodwing",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Caldera",
+        "boss": "The Infernal King",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Canyon",
+        "boss":
+        [
+            "Stonebeak, Battle Fowl",
+            "Gnar, Eater of Carrion"
+        ],
+        "bossCount": "2",
+        "bossPhase": "0",
+        "bossArena": "0",
+        "layout": "linear",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Carcass",
+        "boss": "Amalgam of Nightmares",
+        "bossCount": "1",
+        "bossPhase": "1",
+        "bossArena": "1",
+        "layout": "semi-linear",
+        "divinationCard":
+        [
+            "The Nurse"
+        ],
+        "noteKnedle": ""
+    },
+    {
+        "map": "Castle Ruins",
+        "boss": "Leif, the Swift-Handed",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Cells",
+        "boss": "Shavronne the Sickening",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard":
+        [
+            "The Nurse"
+        ],
+        "noteKnedle": ""
+    },
+    {
+        "map": "Cemetery",
+        "boss": "Erebix, Light's Bane",
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "1",
+        "layout": "semi-linear",
+        "divinationCard":
+        [
+            "Brother's Stash"
+        ],
+        "noteKnedle": "if start right, arena down, if left, arena up"
+    },
+    {
+        "map": "Channel",
+        "boss": "The Winged Death",
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "0",
+        "layout": "semi-linear",
+        "divinationCard": "",
+        "noteKnedle": "aqueduct, go left"
+    },
+    {
+        "map": "Chateau",
+        "boss": "Hephaeus, The Hammer",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "City Square",
+        "boss":
+        [
+            "Pileah, Corpse Burner",
+            "Pileah, Burning Corpse",
+            "Carius, the Unnatural"
+        ],
+        "bossCount": "3",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Cold River",
+        "boss":
+        [
+            "Khor, Sister of Shadows",
+            "Ara, Sister of Light"
+        ],
+        "bossCount": "",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard":
+        [
+            "Wealth and Power"
+        ],
+        "noteKnedle": ""
+    },
+    {
+        "map": "Colonnade",
+        "boss": "Tyrant",
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "1",
+        "layout": "semi-linear",
+        "divinationCard":
+        [
+            "The Patient"
+        ],
+        "noteKnedle": ""
+    },
+    {
+        "map": "Colosseum",
+        "boss": "Ambrius, Legion Slayer",
+        "bossCount": "1",
+        "bossPhase": "1",
+        "bossArena": "1",
+        "layout": "semi-linear",
+        "divinationCard":
+        [
+            "The Last One Standing"
+        ],
+        "noteKnedle": "way, pit, way, pit, arena"
+    },
+    {
+        "map": "Conservatory",
+        "boss": "The Forgotten Soldier",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Coral Ruins",
+        "boss": "Captain Tanner Lightfoot",
+        "bossCount": "0",
+        "bossPhase": "0",
+        "bossArena": "semi-linear",
+        "layout": "",
+        "divinationCard": "go to up",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Core",
+        "boss": "Eater of Souls",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "The Nurse",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Courthouse",
+        "boss":
+        [
+            "Bolt Brownfur, Earth Churner",
+            "Thena Moga, the Crimson Storm",
+            "Ion Darkshroud, the Hungering Blade"
+        ],
+        "bossCount": "3",
+        "bossPhase": "0",
+        "bossArena": "1",
+        "layout": "maze,semi-linear",
+        "divinationCard": "",
+        "noteKnedle": "maybe up"
+    },
+    {
+        "map": "Courtyard",
+        "boss":
+        [
+            "Oriath's Virtue",
+            "Oriath's Vengeance",
+            "Oriath's Vigil"
+        ],
+        "bossCount": "3",
+        "bossPhase": "0",
+        "bossArena": "1",
+        "layout": "maze,semi-linear",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Coves",
+        "boss":
+        [
+            "Telvar, the Inebriated",
+            "Pirate Treasure"
+        ],
+        "bossCount": "",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Crater",
+        "boss": "Megaera",
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "0",
+        "layout": "semi-linear",
+        "divinationCard": "",
+        "noteKnedle": "boss bottom left"
+    },
+    {
+        "map": "Crimson Temple",
+        "boss": "The Sanguine Siren",
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "1",
+        "layout": "semi-linear",
+        "divinationCard":
+        [
+            "The Apothecary",
+            "Seven years bad luck",
+            "The Enlightened"
+        ],
+        "noteKnedle": "go left"
+    },
+    {
+        "map": "Crimson Township",
+        "boss": "Kadaris, Crimson Mayor",
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "1",
+        "layout": "semi-linear",
+        "divinationCard": "The Apothecary",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Crystal Ore",
+        "boss":
+        [
+            "Lord of the Hollows",
+            "Messenger of the Hollows",
+            "Champion of the Hollows"
+        ],
+        "bossCount": "3",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Cursed Crypt",
+        "boss": "Pagan Bishop of Agony",
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "0",
+        "layout": "maze",
+        "divinationCard": "",
+        "noteKnedle": "maybe diagonal direction"
+    },
+    {
+        "map": "Dark Forest",
+        "boss": "The Cursed King",
+        "bossCount": "1",
+        "bossPhase": "1",
+        "bossArena": "1",
+        "layout": "semi-linear",
+        "divinationCard":
+        [
+            "The Scout"
+        ],
+        "noteKnedle": "go on way"
+    },
+    {
+        "map": "Defiled Cathedral",
+        "boss":
+        [
+            "Woad, Mockery of Man"
+        ],
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "1",
+        "layout": "semi-linear",
+        "divinationCard":
+        [
+            "The Apothecary",
+            "Seven years bad luck",
+            "The Enlightened"
+        ],
+        "noteKnedle": "Square, arena on another side"
+    },
+    {
+        "map": "Desert",
+        "boss": "Preethi, Eye-Pecker",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Desert Spring",
+        "boss": "Terror of the Infinite Drifts",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Dig",
+        "boss": "Stalker of the Endless Dunes",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Dry Sea",
+        "boss": "Gazuul, Droughtspawn",
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "0",
+        "layout": "semi-linear",
+        "divinationCard": "",
+        "noteKnedle": "diagonal, square"
+    },
+    {
+        "map": "Dunes",
+        "boss": "The Blacksmith",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Dungeon",
+        "boss": "Penitentiary Incarcerator",
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "1",
+        "layout": "maze",
+        "divinationCard": "",
+        "noteKnedle": "maybe diagonal direction"
+    },
+    {
+        "map": "Estuary",
+        "boss": "Sumter the Twisted",
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "1",
+        "layout": "semi-linear",
+        "divinationCard": "",
+        "noteKnedle": "same map"
+    },
+    {
+        "map": "Excavation",
+        "boss":
+        [
+            "Breaker Toruul",
+            "Shrieker Eihal"
+        ],
+        "bossCount": "",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Factory",
+        "boss": "Pesquin, the Mad Baron",
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "1",
+        "layout": "semi-linear",
+        "divinationCard": "",
+        "noteKnedle": "both way (up, down) to boss (is top right)"
+    },
+    {
+        "map": "Fields",
+        "boss": "Drek, Apex Hunter",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Flooded Mine",
+        "boss": "The Eroding One",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Forbidden Woods",
+        "boss":
+        [
+            "Skictis, Frostkeeper",
+            "Corruptor Eedaiak",
+            "Takatax Brittlethorn"
+        ],
+        "bossCount": "3",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard":
+        [
+            "The Scout"
+        ],
+        "noteKnedle": ""
+    },
+    {
+        "map": "Forge of the Phoenix",
+        "boss": "Guardian of the Phoenix",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Forking River",
+        "boss": "Ormud, Fiend of the Flood",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Foundry",
+        "boss":
+        [
+            "The Shifting Ire",
+            "Ciergan, Shadow Alchemist"
+        ],
+        "bossCount": "",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard":
+        [
+            "The Fiend"
+        ],
+        "noteKnedle": ""
+    },
+    {
+        "map": "Frozen Cabins",
+        "boss": "Captain Clayborne, The Accursed",
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "1",
+        "layout": "linear",
+        "divinationCard": "",
+        "noteKnedle": "long"
+    },
+    {
+        "map": "Fungal Hollow",
+        "boss": "Aulen Greychain",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Gardens",
+        "boss": "Sallazzang",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Geode",
+        "boss": "Avatar of Undoing",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Ghetto",
+        "boss": "Lady Stormflay",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Glacier",
+        "boss": "Rek'tar, the Breaker",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Grave Trough",
+        "boss": "The Restless Shade",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "Brother's Stash",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Graveyard",
+        "boss":
+        [
+            "Thunderskull",
+            "Champion of Frost",
+            "Steelpoint the Avenger"
+        ],
+        "bossCount": "3",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard":
+        [
+            "Brother's Stash"
+        ],
+        "noteKnedle": ""
+    },
+    {
+        "map": "Grotto",
+        "boss": "Void Anomaly",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Haunted Mansion",
+        "boss":
+        [
+            "Barthol, the Pure",
+            "Barthol, the Corruptor"
+        ],
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "1",
+        "layout": "maze",
+        "divinationCard":
+        [
+            "The Apothecary"
+        ],
+        "noteKnedle": ""
+    },
+    {
+        "map": "Iceberg",
+        "boss":
+        [
+            "Yorishi, Aurora-sage",
+            "Jeinei Yuushu",
+            "Otesha, the Giantslayer"
+        ],
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "0",
+        "layout": "semi-linear",
+        "divinationCard": "",
+        "noteKnedle": "way over 2 bridges"
+    },
+    {
+        "map": "Infested Valley",
+        "boss": "Gorulis, Will-Thief",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Ivory Temple",
+        "boss":
+        [
+            "Sanctum Enforcer",
+            "Sanctum Guardian"
+        ],
+        "bossCount": "2",
+        "bossPhase": "0",
+        "bossArena": "1",
+        "layout": "maze",
+        "divinationCard":
+        [
+            "The Enlightened"
+        ],
+        "noteKnedle": ""
+    },
+    {
+        "map": "Jungle Valley",
+        "boss": "Queen of the Great Tangle",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard":
+        [
+            "The Scout"
+        ],
+        "noteKnedle": ""
+    },
+    {
+        "map": "Laboratory",
+        "boss": "Riftwalker",
+        "bossCount": "1",
+        "bossPhase": "1",
+        "bossArena": "1",
+        "layout": "maze",
+        "divinationCard": "",
+        "noteKnedle": "open 4 teleport on 4 sides"
+    },
+    {
+        "map": "Lair",
+        "boss": "Lycius, Midnight's Howl",
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "1",
+        "layout": "linear",
+        "divinationCard":
+        [
+            "The Scout"
+        ],
+        "noteKnedle": "long"
+    },
+    {
+        "map": "Lair of the Hydra",
+        "boss": "Guardian of the Hydra",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Lava Chamber",
+        "boss": "Fire and Fury",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Lava Lake",
+        "boss": "Kitava, The Destroyer",
+        "bossCount": "1",
+        "bossPhase": "1",
+        "bossArena": "1",
+        "layout": "semi-linear",
+        "divinationCard": "",
+        "noteKnedle": "round, boss in centre from right side"
+    },
+    {
+        "map": "Leyline",
+        "boss": "Mirage of Bones",
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "1",
+        "layout": "semi-linear",
+        "divinationCard": "",
+        "noteKnedle": "open, but in middle way to arena"
+    },
+    {
+        "map": "Lighthouse",
+        "boss":
+        [
+            "Uruk Baleh",
+            "El'Abin, Bloodeater",
+            "Leli Goya, Daughter of Ash",
+            "Bin'aia, Crimson Rain"
+        ],
+        "bossCount": "",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Lookout",
+        "boss": "The Grey Plague",
+        "bossCount": "1",
+        "bossPhase": "1",
+        "bossArena": "1",
+        "layout": "linear",
+        "divinationCard":
+        [
+            "The Enlightened"
+        ],
+        "noteKnedle": "pseudo boss phase"
+    },
+    {
+        "map": "Malformation",
+        "boss": "Nightmare Manifest",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Marshes",
+        "boss": "Tore, Towering Ancient",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Mausoleum",
+        "boss": "Tolman, the Exhumer",
+        "bossCount": "1",
+        "bossPhase": "1",
+        "bossArena": "1",
+        "layout": "semi-linear",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Maze",
+        "boss": "Shadow of the Vaal",
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "0",
+        "layout": "maze",
+        "divinationCard":
+        [
+            "Unrequited Love"
+        ],
+        "noteKnedle": "maybe diagonal top left"
+    },
+    {
+        "map": "Maze of the Minotaur",
+        "boss": "Guardian of the Minotaur",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Mesa",
+        "boss": "Oak the Mighty",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Mineral Pools",
+        "boss": "Shock and Horror",
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "1",
+        "layout": "maze, semi-linear",
+        "divinationCard": "",
+        "noteKnedle": "U, arena bottom left direction"
+    },
+    {
+        "map": "Moon Temple",
+        "boss": "Sebbert, Crescent's Point",
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "1",
+        "layout": "maze",
+        "divinationCard":
+        [
+            "Wealth and Power"
+        ],
+        "noteKnedle": ""
+    },
+    {
+        "map": "Mud Geyser",
+        "boss": "Tunneltrap",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Museum",
+        "boss": "He of Many Pieces",
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "1",
+        "layout": "maze",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Necropolis",
+        "boss": "Burtok, Conjurer of Bones",
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "1",
+        "layout": "maze",
+        "divinationCard": "",
+        "noteKnedle": "maybe direct to left"
+    },
+    {
+        "map": "Orchard",
+        "boss": "Vision of Justice",
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "1",
+        "layout": "maze",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Overgrown Ruin",
+        "boss": "Visceris",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Overgrown Shrine",
+        "boss": "Maligaro the Mutilator",
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "1",
+        "layout": "linear",
+        "divinationCard": "",
+        "noteKnedle": "2 linear maps"
+    },
+    {
+        "map": "Palace",
+        "boss": "God's Chosen",
+        "bossCount": "1",
+        "bossPhase": "1",
+        "bossArena": "1",
+        "layout": "semi-linear",
+        "divinationCard": "",
+        "noteKnedle": "go east"
+    },
+    {
+        "map": "Park",
+        "boss": "Suncaller Asha",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Pen",
+        "boss": "Arwyn, the Houndmaster",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Peninsula",
+        "boss": "Titan of the Grove",
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "1",
+        "layout": "semi-linear",
+        "divinationCard": "",
+        "noteKnedle": "square (maybe up short)"
+    },
+    {
+        "map": "Phantasmagoria",
+        "boss": "Erythrophagia",
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "1",
+        "layout": "linear",
+        "divinationCard": "",
+        "noteKnedle": "long way"
+    },
+    {
+        "map": "Pier",
+        "boss": "Ancient Architect",
+        "bossCount": "1",
+        "bossPhase": "1",
+        "bossArena": "1",
+        "layout": "semi-linear, linear, maze",
+        "divinationCard": "",
+        "noteKnedle": "bud rovne nebo navrch"
+    },
+    {
+        "map": "Pit",
+        "boss": "Olof, Son of the Headsman",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard":
+        [
+            "The Last One Standing"
+        ],
+        "noteKnedle": ""
+    },
+    {
+        "map": "Pit of the Chimera",
+        "boss": "Guardian of the Chimera",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard":
+        [
+            "The Last One Standing"
+        ],
+        "noteKnedle": ""
+    },
+    {
+        "map": "Plateau",
+        "boss":
+        [
+            "Puruna, the Challenger",
+            "Poporo, the Highest Spire"
+        ],
+        "bossCount": "",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Plaza",
+        "boss": "The Goddess",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Port",
+        "boss": "Unravelling Horror",
+        "bossCount": "1",
+        "bossPhase": "1",
+        "bossArena": "1",
+        "layout": "linear",
+        "divinationCard": "",
+        "noteKnedle": "long way"
+    },
+    {
+        "map": "Precinct",
+        "boss":
+        [
+            "Torr Olgosso",
+            "Damoi Tui",
+            "Orra Greengate",
+            "Augustina Solaria",
+            "Wilorin Demontamer",
+            "Eoin Greyfur",
+            "Igna Phoenix"
+        ],
+        "bossCount": "3",
+        "bossPhase": "0",
+        "bossArena": "0",
+        "layout": "semi-linear",
+        "divinationCard": "",
+        "noteKnedle": "up - maybe only 2 ways"
+    },
+    {
+        "map": "Primordial Blocks",
+        "boss": "High Lithomancer",
+        "bossCount": "1",
+        "bossPhase": "1",
+        "bossArena": "1",
+        "layout": "semi-linear",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Primordial Pool",
+        "boss": "Nightmare's Omen",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Promenade",
+        "boss": "Captain Arteri; Blackguard Tempest",
+        "bossCount": "2",
+        "bossPhase": "0",
+        "bossArena": "0",
+        "layout": "linear",
+        "divinationCard":
+        [
+            "The Patient"
+        ],
+        "noteKnedle": ""
+    },
+    {
+        "map": "Racecourse",
+        "boss":
+        [
+            "Crusher of Gladiators",
+            "Bringer of Blood",
+            "Shredder of Gladiators"
+        ],
+        "bossCount": "3",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Ramparts",
+        "boss": "The Reaver",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard":
+        [
+            "The Scout"
+        ],
+        "noteKnedle": ""
+    },
+    {
+        "map": "Reef",
+        "boss": "Nassar, Lion of the Seas",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Relic Chambers",
+        "boss": "Litanius, the Black Prayer",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Residence",
+        "boss": "Excellis Aurafix",
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "1",
+        "layout": "semi-linear",
+        "divinationCard": "",
+        "noteKnedle": "3 small flor + arena"
+    },
+    {
+        "map": "Scriptorium",
+        "boss": "Gisale, Thought Thief",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Sepulchre",
+        "boss": "Doedre the Defiler",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "Seven years bad luck",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Shipyard",
+        "boss":
+        [
+            "Musky \"Two-Eyes\" Grenn",
+            "Susara, Siren of Pondium",
+            "Lussi \"Rotmother\" Roth"
+        ],
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "0",
+        "layout": "semi-linear",
+        "divinationCard": "",
+        "noteKnedle": "small"
+    },
+    {
+        "map": "Shore",
+        "boss": "Belcer, the Pirate Lord",
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "0",
+        "layout": "open, semi-linear",
+        "divinationCard": "",
+        "noteKnedle": "go down, boss on beach"
+    },
+    {
+        "map": "Shrine",
+        "boss": "",
+        "bossCount": "",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard":
+        [
+            "The Fiend"
+        ],
+        "noteKnedle": ""
+    },
+    {
+        "map": "Siege",
+        "boss": "Tahsin, Warmaker",
+        "bossCount": "",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Silo",
+        "boss": "Renkarr, The Kiln Keeper",
+        "bossCount": "1",
+        "bossPhase": "1",
+        "bossArena": "1",
+        "layout": "linear",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Spider Forest",
+        "boss": "Enticer of Rot",
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "1",
+        "layout": "open, semilinear",
+        "divinationCard":
+        [
+            "The Scout",
+            "The Doctor"
+        ],
+        "noteKnedle": "maybe diagonal"
+    },
+    {
+        "map": "Spider Lair",
+        "boss": "Thraxia",
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "1",
+        "layout": "linear",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Stagnation",
+        "boss": "Murgeth Bogsong",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "The Scout",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Strand",
+        "boss":
+        [
+            "Master of the Blade",
+            "Massier"
+        ],
+        "bossCount": "2",
+        "bossPhase": "0",
+        "bossArena": "1",
+        "layout": "linear",
+        "divinationCard": "",
+        "noteKnedle": "short"
+    },
+    {
+        "map": "Sulphur Vents",
+        "boss": "The Gorgon",
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "1",
+        "layout": "semi-linear",
+        "divinationCard": "",
+        "noteKnedle": "go left or go right"
+    },
+    {
+        "map": "Summit",
+        "boss": "Mephod, the Earth Scorcher",
+        "bossCount": "",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Sunken City",
+        "boss": "Armala, the Widow",
+        "bossCount": "1",
+        "bossPhase": "1",
+        "bossArena": "1",
+        "layout": "semi-linear",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Temple",
+        "boss": "Jorus, Sky's Edge",
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "1",
+        "layout": "maze, semi-linear",
+        "divinationCard":
+        [
+            "The Enlightened"
+        ],
+        "noteKnedle": "arena on right"
+    },
+    {
+        "map": "Terrace",
+        "boss": "Varhesh, Shimmering Aberration",
+        "bossCount": "1",
+        "bossPhase": "1",
+        "bossArena": "1",
+        "layout": "linear",
+        "divinationCard": "",
+        "noteKnedle": "long way"
+    },
+    {
+        "map": "Thicket",
+        "boss": "The Primal One",
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "1",
+        "layout": "maze, semi-linear",
+        "divinationCard":
+        [
+            "The Scout"
+        ],
+        "noteKnedle": "maybe U"
+    },
+    {
+        "map": "Tower",
+        "boss":
+        [
+            "Bazur",
+            "Liantra"
+        ],
+        "bossCount": "",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard":
+        [
+            "The Nurse"
+        ],
+        "noteKnedle": ""
+    },
+    {
+        "map": "Toxic Sewer",
+        "boss": "Arachnoxia",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Tropical Island",
+        "boss": "Blood Progenitor",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard":
+        [
+            "The Scout"
+        ],
+        "noteKnedle": ""
+    },
+    {
+        "map": "Underground River",
+        "boss": "It That Fell",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Underground Sea",
+        "boss":
+        [
+            "Merveil, the Reflection",
+            "Merveil, the Returned"
+        ],
+        "bossCount": "1",
+        "bossPhase": "1",
+        "bossArena": "1",
+        "layout": "semi-linear",
+        "divinationCard": "",
+        "noteKnedle": "only 2 map - if bottom, arena top; if left, arena right"
+    },
+    {
+        "map": "Vaal Pyramid",
+        "boss":
+        [
+            "The Fallen Queen",
+            "The Hollow Lady",
+            "The Broken Prince"
+        ],
+        "bossCount": "3",
+        "bossPhase": "0",
+        "bossArena": "1",
+        "layout": "semi-linear",
+        "divinationCard":
+        [
+            "Unrequited Love"
+        ],
+        "noteKnedle": "3 floor - allways diagonal to stairs"
+    },
+    {
+        "map": "Vaal Temple",
+        "boss":
+        [
+            "K'aj Q'ura",
+            "K'aj Y'ara'az",
+            "K'aj A'alai"
+        ],
+        "bossCount": "3",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard":
+        [
+            "Unrequited Love"
+        ],
+        "noteKnedle": ""
+    },
+    {
+        "map": "Vault",
+        "boss": "Guardian of the Vault",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Villa",
+        "boss": "The High Templar",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Volcano",
+        "boss": "Forest of Flames",
+        "bossCount": "1",
+        "bossPhase": "0",
+        "bossArena": "0",
+        "layout": "linear",
+        "divinationCard": "",
+        "noteKnedle": "U map"
+    },
+    {
+        "map": "Waste Pool",
+        "boss": "Portentia, the Foul",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Wasteland",
+        "boss": "The Brittle Emperor",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Waterways",
+        "boss": "Fragment of Winter",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    },
+    {
+        "map": "Wharf",
+        "boss": "Stone of the Currents",
+        "bossCount": "1",
+        "bossPhase": "",
+        "bossArena": "",
+        "layout": "",
+        "divinationCard": "",
+        "noteKnedle": ""
+    }
 ]
